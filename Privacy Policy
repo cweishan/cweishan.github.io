@@ -1,16 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+            line-height: 1.6; 
+            max-width: 800px; 
+            margin: 0 auto; 
+            padding: 30px 20px; 
+            color: #333;
+            background-color: #fcfcfc;
+        }
+        h1 { 
+            color: #111; 
+            border-bottom: 2px solid #eaeaea; 
+            padding-bottom: 10px; 
+            margin-bottom: 20px;
+        }
+        h2 { 
+            color: #222; 
+            margin-top: 30px; 
+            font-size: 1.2rem;
+        }
+        p { 
+            margin-bottom: 15px; 
+            font-size: 1rem;
+        }
+        .effective-date { 
+            font-style: italic; 
+            color: #666; 
+            margin-top: 40px; 
+            border-top: 1px solid #eaeaea;
+            padding-top: 15px;
+        }
+    </style>
+</head>
+<body>
 
-Keeping this free app online costs real money in servers and maintenance. Help out by sponsoring on GitHub, buying me a coffee, sharing it, or leaving a review.
+    <h1>Privacy Policy</h1>
+    
+    <p>This app is provided by Weishan Chang free of charge.</p>
 
-Choose the type of document you want to generate.
-Read FAQ
+    <h2>Information Collection and Use</h2>
+    <p>This app does not directly collect personally identifiable information, such as the user's name or email address.</p>
 
-The accuracy of the generated privacy policy and terms & conditions on this website is not legally binding. Use at your own risk.
+    <h2>Policy Regarding Children</h2>
+    <p>This app is not intended for children under the age of 16, and we do not knowingly collect information from such users.</p>
 
-Read the full Disclaimer here
-Previous
-Privacy Policy
-Terms & Conditions
+    <h2>Security</h2>
+    <p>We take reasonable measures to ensure the security of user data.</p>
 
-GitHub / 🌙
-Simple Privacy Policy
+    <h2>Changes to the Policy</h2>
+    <p>This privacy policy is subject to change, and any updates will be announced on this page.</p>
 
+    <p class="effective-date">Effective Date: 2026-07-09</p>
+
+</body>
+</html>
