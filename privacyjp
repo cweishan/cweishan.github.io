@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>プライバシーポリシー</title>
+    <style>
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+            line-height: 1.6; 
+            max-width: 800px; 
+            margin: 0 auto; 
+            padding: 30px 20px; 
+            color: #333;
+            background-color: #fcfcfc;
+        }
+        h1 { 
+            color: #111; 
+            border-bottom: 2px solid #eaeaea; 
+            padding-bottom: 10px; 
+            margin-bottom: 20px;
+        }
+        h2 { 
+            color: #222; 
+            margin-top: 30px; 
+            font-size: 1.2rem;
+        }
+        p { 
+            margin-bottom: 15px; 
+            font-size: 1rem;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>プライバシーポリシー</h1>
+    
+    <p>本アプリは、Weishan Changにより無料で提供されています。</p>
+
+    <h2>情報の収集と利用</h2>
+    <p>本アプリは、ユーザーの氏名やメールアドレスなど、個人を特定できる情報を直接収集することはありません。</p>
+
+    <h2>子供に関するポリシー</h2>
+    <p>本アプリは16歳未満の子供を対象としておらず、当該ユーザーから意図的に情報を収集することはありません。</p>
+
+    <h2>セキュリティ</h2>
+    <p>ユーザーデータのセキュリティを確保するため、適切な措置を講じています。</p>
+
+    <h2>ポリシーの変更</h2>
+    <p>本プライバシーポリシーは変更される可能性があり、変更内容は本ページにてお知らせします。</p>
+
+</body>
+</html>
